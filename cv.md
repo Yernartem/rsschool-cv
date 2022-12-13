@@ -1,7 +1,7 @@
 # Temirgali Yernar
 ***
 * __Contacts:__
-    * +7-701-847-36-57
+    * +7-701-847-36-58
     * ernar_9.6@bk.ru
 
 > At the moment I'm learning web technologies for myself. I am a self-study student. I hope that  rs school courses will help me to obtain useful knowledge.
