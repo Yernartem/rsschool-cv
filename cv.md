@@ -12,7 +12,7 @@ __Skills__
 * JS
 * React
 * Figma
-* Webpack,Gulp
+* Webpack,Gulp 
 * Scss,PUG
 
 __Education__
