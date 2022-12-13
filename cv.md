@@ -18,7 +18,7 @@ __Skills__
 __Education__
 * Elbrus Coding Bootcamp
 * Udemy coures
-* HTML Academ
+* HTML Academy
 
 __Languages__
 
